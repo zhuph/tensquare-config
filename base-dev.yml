@@ -10,8 +10,8 @@ spring:
     password: root
   jpa:
     database: MySQL
-    show‐sql: true
-    generate‐ddl: true
+    show-sql: true
+    generate-ddl: true
 eureka:
   client:
     service-url:
