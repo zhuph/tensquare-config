@@ -1,8 +1,8 @@
 server:
-  port: 9012
+  port: 9011
 spring:
   application:
-    name: tensquare-web #指定服务名
+    name: tensquare-manager #指定服务名
 eureka:
   client:
     service-url:
